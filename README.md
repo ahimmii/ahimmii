@@ -1,6 +1,6 @@
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&email=hide&login=ahimmi)](https://github.com/mohouyizme/1337-readme)
 
-These are all my projects in the 42Cursus of [42Madrid Fundación Telefónica](https://www.1337.ma/).
+These are all my projects in the 42Cursus of [1337 MOROCCO](https://www.1337.ma/).
 
 **ONLY USE THIS AS A REFERENCE, IF YOU COPY YOU RISK GETTING A -42!!**
 
