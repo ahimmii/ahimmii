@@ -1,5 +1,7 @@
 [![agaliste's 42 stats](https://badge42.herokuapp.com/api/stats/agaliste?privacyName=true&)](https://github.com/somedevv/42-Cursus)
 
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&email=hide&login=ahimmi)](https://github.com/somedevv/42-Cursus)
+
 These are all my projects in the 42Cursus of [42Madrid Fundación Telefónica](https://www.42madrid.com/).
 
 **ONLY USE THIS AS A REFERENCE, IF YOU COPY YOU RISK GETTING A -42!!**
