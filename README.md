@@ -8,12 +8,12 @@ These are all my projects in the 42Cursus of [42Madrid Fundación Telefónica](h
 
 |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
-libft								|	[libft/](https://github.com/somedevv/libft)		| *.c, libft.h, Makefile | [![ahimmi's 42Project Score](https://badge42.herokuapp.com/api/project/ahimmi/Libft)](https://github.com/ahimmii/libft) |
+libft								|	[libft/](https://github.com/ahimmii/libft)		| *.c, libft.h, Makefile | [![ahimmi's 42Project Score](https://badge42.herokuapp.com/api/project/ahimmi/Libft)](https://github.com/ahimmii/libft) |
 
 ## Rank 1
 
 |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
-get_next_line								|	[get_next_line/](https://github.com/somedevv/get_next_line)		| get_next_line.c, get_next_line_utils.c, get_next_line.h | [![ahimmi's 42Project Score](https://badge42.herokuapp.com/api/project/ahimmi/get_next_line)](https://github.com/ahimmii/get_next_line) |
-printf								|	[ft_printf/](https://github.com/ahimmii/printf)		| *.c, *.h, Makefile | [![ahimmi's 42Project Score](https://badge42.herokuapp.com/api/project/ahimmi/ft_printf)](https://github.com/somedevv/ft_printf) |
-born2beroot								|	[born2beroot/](https://github.com/somedevv/born2beroot)		| monitoring.sh | [![ahimmi's 42Project Score](https://badge42.herokuapp.com/api/project/ahimmi/Born2beroot)]() |
+get_next_line								|	[get_next_line/](https://github.com/ahimmii/get_next_line)		| get_next_line.c, get_next_line_utils.c, get_next_line.h | [![ahimmi's 42Project Score](https://badge42.herokuapp.com/api/project/ahimmi/get_next_line)](https://github.com/ahimmii/get_next_line) |
+printf								|	[ft_printf/](https://github.com/ahimmii/printf)		| *.c, *.h, Makefile | [![ahimmi's 42Project Score](https://badge42.herokuapp.com/api/project/ahimmi/ft_printf)](https://github.com/ahimmii/printf) |
+born2beroot								|	[born2beroot/]()		| monitoring.sh | [![ahimmi's 42Project Score](https://badge42.herokuapp.com/api/project/ahimmi/Born2beroot)]() |
