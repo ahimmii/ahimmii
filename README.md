@@ -22,4 +22,8 @@ born2beroot								|	[born2beroot/]()		| monitoring.sh | [![ahimmi's 42Project S
 
 |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
-so_long								|	[libft/](https://github.com/ahimmii/so_long)		| *.c, so_long.h, Makefile | [![ahimmi's 42Project Score](https://badge42.herokuapp.com/api/project/ahimmi/so_long)](https://github.com/ahimmii/so_long) |
+so_long								|	[so_long/](https://github.com/ahimmii/so_long)		| *.c, so_long.h, Makefile | [![ahimmi's 42Project Score](https://badge42.herokuapp.com/api/project/ahimmi/so_long)](https://github.com/ahimmii/so_long) |
+
+|			Name				|	Directory	| Repo Files | Mark |
+|:-----------------------------------:|:------------------:|:--------------:|:--------------:|
+minitalk								|	[minitalk/](https://github.com/ahimmii/minitalk)		| *.c, minitalk.h, Makefile | [![ahimmi's 42Project Score](https://badge42.herokuapp.com/api/project/ahimmi/minitalk)](https://github.com/ahimmii/minitalk) |
