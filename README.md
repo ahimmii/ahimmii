@@ -24,3 +24,4 @@ born2beroot								|	[born2beroot/]()		| monitoring.sh | [![ahimmi's 42Project S
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
 so_long								|	[so_long/](https://github.com/ahimmii/so_long)		| *.c, so_long.h, Makefile | [![ahimmi's 42Project Score](https://badge42.herokuapp.com/api/project/ahimmi/so_long)](https://github.com/ahimmii/so_long) |
 minitalk								|	[minitalk/](https://github.com/ahimmii/minitalk)		| *.c, minitalk.h, Makefile | [![ahimmi's 42Project Score](https://badge42.herokuapp.com/api/project/ahimmi/minitalk)](https://github.com/ahimmii/minitalk) |
+push_swap								|	[push_swap/](https://github.com/ahimmii/push_swap)		| *.c, push_swap.h, Makefile | [![ahimmi's 42Project Score](https://badge42.herokuapp.com/api/project/ahimmi/push_swap)](https://github.com/ahimmii/push_swap) |
