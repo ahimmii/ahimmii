@@ -1,4 +1,4 @@
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&email=hide&login=ahimmi)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&email=hide&login=ahimmi)](https://github.com/ahimmii)
 
 These are all my projects in the 42Cursus of [1337 MOROCCO](https://www.1337.ma/).
 
