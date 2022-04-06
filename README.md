@@ -8,7 +8,7 @@ These are all my projects in the 42Cursus of [1337 MOROCCO](https://www.1337.ma/
 
 |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
-libft								|	[libft/](https://github.com/ahimmii/libft)		| *.c, libft.h, Makefile | [![ahimmi's 42Project Score](https://badge42.herokuapp.com/api/project/ahimmi/Libft)](https://github.com/ahimmii/libft) |
+libft								|	[libft/](https://github.com/ahimmii/libft)		| *.c, libft.h, Makefile | [![ahimmi's 42Project Score](https://badge42.vercel.app/api/v2/cl1mm6az2003509l58orqwq4c/project/2395284)](https://github.com/ahimmii/libft) |
 
 ## Rank 1
 
